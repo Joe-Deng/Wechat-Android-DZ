@@ -6,7 +6,7 @@ This is link of the Server.<br>
 这是服务端的链接：<br>
 [Wechat-DZ-Server](https://github.com/Joe-Deng/Wechat-DZ-Server)<br>
 这是Gitee的链接：<br>
-[Wechat-DZ-Server(Gitee)](https://github.com/Joe-Deng/Wechat-DZ-Server)<br>
+[Wechat-DZ-Server(Gitee)](https://gitee.com/dengzhou125/Wechat-DZ-Server)<br>
 
 Now I'll show you what it looks like.<br>
 现在我给你展示一下长什么样。<br>
