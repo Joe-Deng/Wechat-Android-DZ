@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="myGreen">#32B303</color>
+    <color name="darkBlue">#031149</color>
+    <color name="gray_White">#ECE9E9</color>
+    <color name="myGray">#B1B0B0</color>
+    <color name="white_gray">#EFEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="myDarkGray">#515151</color>
+    <color name="purple">#004198</color>
+    <color name="fade_white">#F6F5F5</color>
+    <color name="Message_Green">#A1E85A</color>
+    <color name="bbbbbb">#BBBBBB</color>
+</resources>

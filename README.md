@@ -5,13 +5,18 @@ It's an imitation of Wechat(Android), which has UserSystem,FriendSystem,ChatSyst
 Now I'll show you what it looks like.<br>
 现在我给你展示一下长什么样。<br>
 
-# 图片(Pictures)
+# 手机端(Mobie Phone)
+![altText](./static/1.jpg)<br>
+![altText](./static/2.jpg)<br>
+![altText](./static/3.jpg)<br>
+![altText](./static/4.jpg)<br>
+![altText](./static/5.jpg)<br>
+![altText](./static/6.jpg)<br>
+![altText](./static/7.jpg)<br>
+![altText](./static/8.jpg)<br>
+![altText](./static/9.jpg)<br>
+![altText](./static/10.jpg)<br>
+
+# 模拟器端(Visual Driver)
 ![altText](./static/1.png)<br>
 ![altText](./static/2.png)<br>
-![altText](./static/3.png)<br>
-![altText](./static/4.png)<br>
-![altText](./static/5.png)<br>
-![altText](./static/6.png)<br>
-![altText](./static/7.png)<br>
-![altText](./static/8.png)<br>
-![altText](./static/9.png)<br>

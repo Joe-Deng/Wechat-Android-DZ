@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">WeChatProj</string>
+    <string name="START_PAGE_LOGIN">登录</string>
+    <string name="USERNAME_HINT">用户名</string>
+    <string name="PASSWORD_HINT">密码</string>
+    <string name="LOGIN_BUTTON">登录</string>
+    <string name="REGIST_BUTTON">注册</string>
+    <string name="FORGET_BUTTON">忘记密码了</string>
+    <string name="VERSION">V1.0.0</string>
+    <string name="START_PAGE_REGISTER">注册</string>
+    <string name="USERNAME_TEXT">用户名</string>
+    <string name="PASSWORD_TEXT">密码</string>
+    <string name="PHONE_TEXT">手机号</string>
+    <string name="EMAIL_TEXT">邮箱</string>
+    <string name="ALLOW_WORD">已阅读并同意</string>
+    <string name="STRAT_PAGE_FORGET">找回密码</string>
+    <string name="FINDBACK_BUTTON">验证找回</string>
+    <string name="RESUME_TEXT">确认密码</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">微信</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="REG_USERNAME_LABEL">可输入4~24字节</string>
+    <string name="REG_PASSWORD_LABEL">可输入6~24字节，同时包含字母和数字</string>
+    <string name="REG_PHONE_LABEL">请输入11位电话号码</string>
+    <string name="REG_EMAIL_LABEL">邮箱格式错误</string>
+    <string name="CONTENTDESC">Input OK</string>
+    <string name="REG_RESUME_LABEL">两次输入结果不一致，请重新输入</string>
+
+    <string name="START_PAGE_INFO">填写资料</string>
+    <string name="INFO_NICKNAME">昵称</string>
+    <string name="INFO_HEADPIC">头像</string>
+    <string name="INFO_LOCATION">地区*</string>
+    <string name="INFO_SEX">性别</string>
+    <string name="INFO_BUTTON">完成</string>
+    <string name="INFO_NICKNAME_LABLE">最多可输入15个字符</string>
+    <string name="tips_crema">当前App需要申请读写文件和调用相机权限才能运行</string>
+    <string name="tips_limit">权限申请</string>
+    <string name="tips_limit_true">确认</string>
+    <string name="tips_limit_false">取消</string>
+    <string name="tips_limit_crema">当前App需要申请读写文件和调用相机权限,需要打开设置页面么?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TEXT_PAY">支付</string>
+    <string name="todo">TODO</string>
+    <string name="INFO_USERNAME">微信号：xxx</string>
+    <string name="TEXT_COLLETION">收藏</string>
+    <string name="TEXT_GALLERY">相册</string>
+    <string name="TEXT_EMOJI">表情</string>
+    <string name="TEXT_CARDBAG">卡包</string>
+    <string name="TEXT_SETTINGS">设置</string>
+    <string name="title_found">发现</string>
+    <string name="title_me">我</string>
+    <string name="title_friends">通讯录</string>
+    <string name="Friend_Permission">朋友权限</string>
+    <string name="Remark">修改备注</string>
+    <string name="CHAT">发消息</string>
+    <string name="VideoPhone">音视频通话</string>
+    <string name="Add_Friend">微信号/手机号</string>
+    <string name="ADD_FRIEND">添加到通讯录</string>
+    <string name="Friend_From">来源</string>
+    <string name="CommentText">评论</string>
+</resources>

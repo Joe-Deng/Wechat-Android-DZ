@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/start_page_nav"
+    app:startDestination="@id/start_Fragment">
+
+    <fragment
+        android:id="@+id/login_Fragment"
+        android:name="com.example.wechatproj.startpages.Login_Fragment"
+        android:label="fragment_login_"
+        tools:layout="@layout/fragment_login_" >
+        <action
+            android:id="@+id/action_login_Fragment_to_register_Fragment"
+            app:destination="@id/register_Fragment" />
+        <action
+            android:id="@+id/action_login_Fragment_to_forget_Fragment"
+            app:destination="@id/forget_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/register_Fragment"
+        android:name="com.example.wechatproj.startpages.Register_Fragment"
+        android:label="fragment_register_"
+        tools:layout="@layout/fragment_register_" >
+        <action
+            android:id="@+id/action_register_Fragment_to_info_Fragment"
+            app:destination="@id/info_Fragment_" />
+    </fragment>
+    <fragment
+        android:id="@+id/forget_Fragment"
+        android:name="com.example.wechatproj.startpages.Forget_Fragment"
+        android:label="fragment_forget_"
+        tools:layout="@layout/fragment_forget_" />
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.wechatproj.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/start_Fragment"
+        android:name="com.example.wechatproj.startpages.Start_Fragment"
+        android:label="fragment_start_"
+        tools:layout="@layout/fragment_start_" >
+        <action
+            android:id="@+id/action_start_Fragment_to_login_Fragment"
+            app:destination="@id/login_Fragment" />
+        <action
+            android:id="@+id/action_start_Fragment_to_register_Fragment"
+            app:destination="@id/register_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/info_Fragment_"
+        android:name="com.example.wechatproj.startpages.Info_Fragment"
+        android:label="fragment_info_"
+        tools:layout="@layout/fragment_info_" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.wechatproj.mainpages.ui.me.SettingActivity"
+        android:label="fragment_setting"
+        tools:layout="@layout/activity_setting" />
+</navigation>
